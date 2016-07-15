@@ -1,4 +1,4 @@
-# Test001
+# Angular 2 (2.0.0-rc.4) + Electron
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
 
